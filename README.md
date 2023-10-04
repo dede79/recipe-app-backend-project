@@ -27,4 +27,4 @@ How to run this app:
   PGPORT=5432
   PORT=3001`
 
-- Finally, run the `npm start` command in the terminal and the tables (and any table migrations) will be created and the backend app should be listening on port 3001.
+- Finally, run `npm install` then `npm start` command in the terminal and the tables (and any table migrations) will be created and the backend app should be listening on port 3001.
